@@ -1,0 +1,49 @@
+# apps/ingestion-api
+apps/ingestion-api/node_modules/
+apps/ingestion-api/.env
+apps/ingestion-api/dist/
+apps/ingestion-api/build/
+apps/ingestion-api/coverage/
+apps/ingestion-api/*.log
+
+# apps/ledger-worker
+apps/ledger-worker/node_modules/
+apps/ledger-worker/.env
+apps/ledger-worker/dist/
+apps/ledger-worker/build/
+apps/ledger-worker/coverage/
+apps/ledger-worker/*.log
+
+# packages/redis
+packages/redis/node_modules/
+packages/redis/.env
+packages/redis/dist/
+packages/redis/build/
+packages/redis/coverage/
+
+# packages/logger
+packages/logger/node_modules/
+packages/logger/.env
+packages/logger/dist/
+packages/logger/build/
+packages/logger/coverage/
+
+# root
+node_modules/
+.env
+.env.*
+!.env.example
+Notes.md
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+
+# Misc
+*.pid
+*.tsbuildinfo

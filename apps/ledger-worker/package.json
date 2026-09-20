@@ -1,0 +1,24 @@
+{
+  "name": "ledger-worker",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/worker.js",
+    "start": "node src/worker.js"
+  },
+  "dependencies": {
+    "@fintech/redis": "file:../../packages/redis",
+    "amqplib": "^2.0.1",
+    "dotenv": "^18.0.1",
+    "mysql2": "^3.24.4",
+    "sequelize": "^6.37.8"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
