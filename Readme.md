@@ -21,9 +21,11 @@ An event-driven, fault-tolerant backend system designed to ingest high-volume, a
 * **Database & ORM:** MySQL, Sequelize
 
 ## Main Architecture
-<img width="1902" height="1920" alt="image" src="https://github.com/user-attachments/assets/81c19f60-b065-46cd-a180-7decc49d33c8" />
+<img width="1590" height="1928" alt="image" src="https://github.com/user-attachments/assets/67cc8699-dd7a-4ea1-9d88-32a0ac276e49" />
+
 
 ## Mental Model
-<img width="2984" height="906" alt="image" src="https://github.com/user-attachments/assets/3b43eb4b-4654-42b0-b95a-8a9c4cb73fce" />
+<img width="2902" height="816" alt="image" src="https://github.com/user-attachments/assets/96afd970-495f-4c66-908b-e0c37caa53d8" />
+
 
 
